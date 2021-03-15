@@ -1,4 +1,4 @@
-Copyright (C) 2020-2021 ShapeShiftOS
+Copyright (C) AOSP
 
 # Device configuration for Xiaomi Mi 9T Pro / Redmi K20 Pro
 
@@ -22,7 +22,7 @@ It was announced and released in August 2019.
 
 ## Device picture
 
-![Xiaomi Mi 9T Pro / Redmi K20 Pro](<https://xiaomi-mi.com/uploads/CatalogueImage/k20-pro%20(2)_17557_1559503979.jpg> "Xiaomi Mi 9T Pro / Redmi K20 Pro in black")
+![Xiaomi Mi 9T Pro / Redmi K20 Pro](<https://user-images.githubusercontent.com/58150791/72027564-e8dc0900-32c2-11ea-926b-dd0c33489902.jpg> "Xiaomi Mi 9T Pro / Redmi K20 Pro in black")
 
 ## Proprietary-files.txt
-All unpinned blobs are extracted from raphael-user 11 RKQ1.200826.002 21.3.3 release-keys
+All unpinned blobs are extracted from raphael-user 11 RKQ1.200826.002 21.2.3 release-keys

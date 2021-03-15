@@ -572,12 +572,11 @@
     <string name="db_default_sync_mode">OFF</string>
     <string name="db_wal_sync_mode">OFF</string>
 
-    <!-- Shows the required view for in-display fingerprint -->
-    <bool name="config_needCustomFODView">true</bool>
+    <!-- Whether device supports in-display fingerprint -->
     <bool name="config_supportsInDisplayFingerprint">true</bool>
 
-    <!-- Whether device has screen off FOD support -->
-    <bool name="config_supportScreenOffFod">true</bool>
+    <!-- Whether device supports in-display fingerprint when screen is turned off -->
+    <bool name="config_supportsScreenOffInDisplayFingerprint">true</bool>
 
     <!-- Max visible notification icons -->
     <integer name="config_maxVisibleNotificationIcons">7</integer>
