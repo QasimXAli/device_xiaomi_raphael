@@ -1,4 +1,4 @@
-Copyright (C) AOSP
+Copyright (C) Descendant
 
 # Device configuration for Xiaomi Mi 9T Pro / Redmi K20 Pro
 
