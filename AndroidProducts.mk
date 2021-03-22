@@ -1,4 +1,4 @@
-# Copyright (C) 2021 Descendant
+# Copyright (C) 2021 Potato
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -13,9 +13,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/descendant_raphael.mk
+    $(LOCAL_DIR)/potato_raphael.mk
 
 COMMON_LUNCH_CHOICES := \
-    descendant_raphael-user \
-    descendant_raphael-userdebug \
-    descendant_raphael-eng
+    potato_raphael-user \
+    potato_raphael-userdebug \
+    potato_raphael-eng
